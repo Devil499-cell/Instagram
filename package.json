@@ -1,0 +1,20 @@
+{
+  "name": "instagram-video-downloader-api",
+  "version": "1.0.0",
+  "description": "Instagram Video Downloader API by @KINGITACHI18",
+  "author": "@KINGITACHI18",
+  "license": "MIT",
+  "main": "api/download.js",
+  "keywords": [
+    "instagram",
+    "video-downloader",
+    "api",
+    "instagram-api"
+  ],
+  "dependencies": {
+    "axios": "^1.6.0"
+  },
+  "engines": {
+    "node": ">=18.x"
+  }
+}
